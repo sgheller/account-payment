@@ -1,3 +1,6 @@
+EN CASO DE MERGE CONFLICTS AL SINCRONIZAR CON EL REPO ORIGINAL
+https://stackoverflow.com/questions/42179093/forked-repository-resolving-the-same-merge-conflicts-every-time-i-sync-with-up
+
 [![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/96/13.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-account-payment-96)
 [![Build Status](https://travis-ci.org/OCA/account-payment.svg?branch=13.0)](https://travis-ci.org/OCA/account-payment)
 [![Coverage Status](https://coveralls.io/repos/OCA/account-payment/badge.png?branch=13.0)](https://coveralls.io/r/OCA/account-payment?branch=13.0)
